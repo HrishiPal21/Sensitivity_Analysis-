@@ -17,8 +17,8 @@
 
 | Resource | Link |
 |:---------|:-----|
-| **Published chapter (Substack)** | *[Add your Substack URL here]* |
-| **14-minute video walkthrough** | [Vimeo](https://vimeo.com/1180184288?share=copy&fl=sv&fe=ci) · same URL in [`video_link.txt`](video_link.txt) |
+| **Published chapter (Substack)** | https://hrishipal.substack.com/p/sensitivity-analysis-how-wrong-could |
+| **14-minute video walkthrough** | [Vimeo](https://vimeo.com/1180184288?share=copy&fl=sv&fe=ci) · same URL in [`video_link.txt`](https://vimeo.com/1180184288?share=copy&fl=sv&fe=ci) |
 | **Chapter (Markdown)** | [`chapter/Chapter15_Sensitivity_Analysis.md`](chapter/Chapter15_Sensitivity_Analysis.md) |
 | **Author’s note** | [`chapter/Authors_note.md`](chapter/Authors_note.md) |
 
@@ -48,8 +48,6 @@ causal_inference_ch15/
 │   └── Authors_note.md                    ← tools, decisions, self-assessment
 └── README.md
 ```
-
-*If you add a PDF author’s note or `Substack_Link.txt`, list them here the same way.*
 
 ---
 
